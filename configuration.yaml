@@ -29,4 +29,10 @@ verbs:
   - name: Ամբաստանել # added on 2025-12-02
     type: accusative
     first_person_present: կ'ամբաստանեմ
+  - name: Յիշել # added on 2025-12-02
+    type: accusative
+    first_person_present: կը յիշեմ
+  - name: Հետաքրքրել # added on 2025-12-02
+    type: accusative
+    first_person_present: կը հետաքրքրեմ
 # ...
