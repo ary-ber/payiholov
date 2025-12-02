@@ -26,4 +26,7 @@ verbs:
   - name: Ոչնչացնել # added on 2025-11-30
     type: accusative
     first_person_present: կը ոչնչացնեմ
+  - name: Ամբաստանել # added on 2025-12-02
+    type: accusative
+    first_person_present: կ'ամբաստանեմ
 # ...
