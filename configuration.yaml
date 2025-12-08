@@ -35,4 +35,7 @@ verbs:
   - name: Հետաքրքրել # added on 2025-12-02
     type: accusative
     first_person_present: կը հետաքրքրեմ
+  - name: Տեղեակ պահել # added on 2025-12-02
+    type: accusative
+    first_person_present: տեղեակ կը պահեմ
 # ...
