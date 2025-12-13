@@ -32,10 +32,10 @@ function createConjugationString(item, templateText, numberType) {
         // Construct the full sentence *including* the subject pronoun at the start
         if (templateText === "col2") {
             // Col 2 structure
-            fullSentence = `${subject} ${item.first_person_present}`;
+            fullSentence = `${subject} ${item.third_person_present}`;
         } else { // col3
             // Col 3 structure
-            fullSentence = `${subject} ${item.first_person_present}`;
+            fullSentence = `${subject} ${item.third_person_present}`;
         }
         sentences.push(fullSentence);
     }

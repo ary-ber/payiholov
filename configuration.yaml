@@ -1,41 +1,47 @@
 verbs:
   - name: Սիրել
     type: accusative # հայցական
-    first_person_present: կը սիրեմ
+    third_person_present: կը սիրէ
   - name: Տեղեկացնել
     type: dative # տրական
-    first_person_present: կը տեղեկացնեմ
+    third_person_present: կը տեղեկացնէ
   - name: Տալ
     type: dative
-    first_person_present: կու տամ
+    third_person_present: կու տայ
   - name: Ղրկել
     type: dative
-    first_person_present: կը ղրկեմ
+    third_person_present: կը ղրկէ
   - name: Հրաւիրել
     type: accusative
-    first_person_present: կը հրաւիրեմ
+    third_person_present: կը հրաւիրէ
   - name: Սորվեցնել
     type: dative
-    first_person_present: կը սորվեցնեմ
+    third_person_present: կը սորվեցնէ
   - name: Ճանչնալ # added on 2025-11-30
     type: accusative
-    first_person_present: կը ճանչնամ
+    third_person_present: կը ճանչնայ
   - name: Սպասել # added on 2025-11-30
     type: dative
-    first_person_present: կը սպասեմ
+    third_person_present: կը սպասէ
   - name: Ոչնչացնել # added on 2025-11-30
     type: accusative
-    first_person_present: կը ոչնչացնեմ
+    third_person_present: կը ոչնչացնէ
   - name: Ամբաստանել # added on 2025-12-02
     type: accusative
-    first_person_present: կ'ամբաստանեմ
+    third_person_present: կ'ամբաստանէ
   - name: Յիշել # added on 2025-12-02
     type: accusative
-    first_person_present: կը յիշեմ
+    third_person_present: կը յիշէ
   - name: Հետաքրքրել # added on 2025-12-02
     type: accusative
-    first_person_present: կը հետաքրքրեմ
+    third_person_present: կը հետաքրքրէ
   - name: Տեղեակ պահել # added on 2025-12-08
     type: accusative
-    first_person_present: տեղեակ կը պահեմ
+    third_person_present: տեղեակ կը պահէ
+  - name: Թուիլ # added on 2025-12-14
+    type: dative
+    third_person_present: կը թուի
+  - name: Գտնել # added on 2025-12-14
+    type: accusative
+    third_person_present: կը գտնէ
 # ...
