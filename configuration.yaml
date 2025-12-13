@@ -25,10 +25,10 @@ verbs:
     third_person_present: կը սպասէ
   - name: Ոչնչացնել # added on 2025-11-30
     type: accusative
-    third_person_present: կը ոչնչացնէ
+    third_person_present: կ՚ոչնչացնէ
   - name: Ամբաստանել # added on 2025-12-02
     type: accusative
-    third_person_present: կ'ամբաստանէ
+    third_person_present: կ՚ամբաստանէ
   - name: Յիշել # added on 2025-12-02
     type: accusative
     third_person_present: կը յիշէ
