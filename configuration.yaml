@@ -44,4 +44,55 @@ verbs:
   - name: Գտնել # added on 2025-12-14
     type: accusative
     third_person_present: կը գտնէ
+  - name: Ուրախացնել # added on 2025-12-24
+    type: accusative
+    third_person_present: կ՚ուրախացնէ
+  - name: Մտահոգել # added on 2025-12-24
+    type: accusative
+    third_person_present: կը մտահոգէ
+  - name: Ձգել # added on 2025-12-24
+    type: accusative
+    third_person_present: կը ձգէ
+  - name: Ազատել # added on 2025-12-24
+    type: accusative
+    third_person_present: կ՚ազատէ
+  - name: Ազգայնացնել # added on 2025-12-24
+    type: accusative
+    third_person_present: կ՚ազգայնացնէ
+  - name: Ածիլել # added on 2025-12-24
+    type: accusative
+    third_person_present: կ՚ածիլէ
+  - name: Ակնարկել # added on 2025-12-24
+    type: dative
+    third_person_present: կ՚ակնարկէ
+  - name: Ակօսել # added on 2025-12-24
+    type: dative
+    third_person_present: կ՚ակօսէ
+  - name: Աղաչել # added on 2025-12-24
+    type: dative
+    third_person_present: կ՚աղաչէ
+  - name: Աղալ # added on 2025-12-24
+    type: accusative
+    third_person_present: կ՚աղայ
+  - name: Ամուսնացնել # added on 2025-12-24
+    type: accusative
+    third_person_present: կ՚ամուսնացնէ
+  - name: Ամչցնել # added on 2025-12-24
+    type: accusative
+    third_person_present: կ՚ամչցնէ
+  - name: Այրել # added on 2025-12-24
+    type: accusative
+    third_person_present: կ՚այրէ
+  - name: Այցելել # added on 2025-12-24
+    type: accusative
+    third_person_present: կ՚այցելէ
+  - name: Անարգել # added on 2025-12-24
+    type: accusative
+    third_person_present: կ՚անարգէ
+  - name: Անիծել # added on 2025-12-24
+    type: accusative
+    third_person_present: կ՚անիծէ
+  - name: Ապշեցնել # added on 2025-12-24
+    type: accusative
+    third_person_present: կ՚ապշեցնէ
 # ...
