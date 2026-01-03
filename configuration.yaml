@@ -95,4 +95,10 @@ verbs:
   - name: Ապշեցնել # added on 2025-12-24
     type: accusative
     third_person_present: կ՚ապշեցնէ
+  - name: Շնորհաւորել # added on 2026-01-03
+    type: accusative
+    third_person_present: կը շնորհաւորէ
+  - name: Յանդիմանել # added on 2026-01-03
+    type: accusative
+    third_person_present: կը յանդիմանէ
 # ...
