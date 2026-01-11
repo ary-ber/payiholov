@@ -101,4 +101,28 @@ verbs:
   - name: Յանդիմանել # added on 2026-01-03
     type: accusative
     third_person_present: կը յանդիմանէ
+  - name: Խանդավառել # added on 2026-01-11
+    type: accusative
+    third_person_present: կը խանդավառէ
+  - name: Գովել # added on 2026-01-11
+    type: accusative
+    third_person_present: կը գովէ
+  - name: Բարեկարգել # added on 2026-01-11
+    type: accusative
+    third_person_present: կը բարեկարգէ
+  - name: Պատուել # added on 2026-01-11
+    type: accusative
+    third_person_present: կը պատուէ
+  - name: Բռնել # added on 2026-01-11
+    type: accusative
+    third_person_present: կը բռնէ
+  - name: Ծափահարել # added on 2026-01-11
+    type: accusative
+    third_person_present: կը ծափահարէ
+  - name: Հանդիպիլ # added on 2026-01-11
+    type: dative
+    third_person_present: կը հանդիպի
+  - name: Լացնել # added on 2026-01-11
+    type: accusative
+    third_person_present: կը լացնէ
 # ...
