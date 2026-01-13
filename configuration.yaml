@@ -125,4 +125,10 @@ verbs:
   - name: Լացնել # added on 2026-01-11
     type: accusative
     third_person_present: կը լացնէ
+  - name: Յարգել # added on 2026-01-XX
+    type: accusative
+    third_person_present: կը յարգէ
+  - name: Լսել # added on 2026-01-XX
+    type: accusative
+    third_person_present: կը լսէ
 # ...
