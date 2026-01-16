@@ -131,4 +131,151 @@ verbs:
   - name: Լսել # added on 2026-01-13
     type: accusative
     third_person_present: կը լսէ
+  - name: Քաջալերել # added on 2026-01-16, Gospel of Matthew
+    type: accusative
+    third_person_present: կը քաջալերէ
+  - name: Միացնել # added on 2026-01-16, Gospel of Matthew
+    type: accusative
+    third_person_present: կը միացնէ
+  - name: Յիշեցնել # added on 2026-01-16, Gospel of Matthew
+    type: dative
+    third_person_present: կը յիշեցնէ
+  - name: Տեսնել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը տեսնէ
+  - name: Մաքրել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը մաքրէ
+  - name: Դաւանիլ # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը դաւանի
+  - name: Ուրանալ # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կ՚ուրանայ
+  - name: Ընդունիլ # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կ՚ընդունի
+  - name: Փրկել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը փրկէ
+  - name: Պատուել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը պատուէ
+  - name: Պաշտել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը պաշտէ
+  - name: Կոչել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը կոչէ
+  - name: Փորձել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը փորձէ
+  - name: Մատնել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը մատնէ
+  - name: Բռնել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը բռնէ
+  - name: Լքել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը լքէ
+  - name: Ըսել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: կ՚ըսէ
+  - name: Նետել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը նետէ
+  - name: Կրել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը կրէ
+  - name: Հրահանգել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: կը հրահանգէ
+  - name: Յանձնել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը յանձնէ
+  - name: Յայտարարել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: կը յայտարարէ
+  - name: Ստիպել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը ստիպէ
+  - name: Գայթակղեցնել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը գայթակղեցնէ
+  - name: Հատուցանել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: կը հատուցանէ
+  - name: Հետեւիլ # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: կը հետեւի
+  - name: Բժշկել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը բժշկէ
+  - name: Ներբողել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: կը ներբողէ
+  - name: Պատահիլ # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: կը պատահի
+  - name: Վճարել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: կը վճարէ
+  - name: Ներել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: կը ներէ
+  - name: Ողորմիլ # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: կ՚ողորմէ
+  - name: Պատահիլ # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: կը պատահի
+  - name: Պտիկ ընել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: մտիկ կ՚ընէ
+  - name: Դէմը մեղանչել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: դէմ կը մեղանչէ
+  - name: Դէմը վկայել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: դէմ կը վկայէ
+  - name: Անիրաւել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կ՚անիրաւէ
+  - name: Քարկոծել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: կը քարկոծէ
+  - name: Նշանակել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը նշանակէ
+  - name: Զարնել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: dative
+    third_person_present: կը զարնէ
+  - name: Յայտնել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը յայտնէ
+  - name: Բուժել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը բուժէ
+  - name: Արթնցնել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կ՚արթնցնէ
+  - name: Ծաղրել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը ծաղրէ
+  - name: Սպաննել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը սպաննէ
+  - name: Կանխել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը կանխէ
+  - name: Դատապարտել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը դատապարտէ
+  - name: Դիմաւորել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը դիմաւորէ
+  - name: Համոզել # added on 2026-01-16, Gospel of Matthew, https://sacred-texts.com/bib/wb/armw/mat.htm
+    type: accusative
+    third_person_present: կը համոզէ
 # ...
